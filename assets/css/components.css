@@ -12,3 +12,15 @@
     border: 3px solid #f66;
     color: #f66;
 }
+
+.homepage h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.homepage i {
+    display: block;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
