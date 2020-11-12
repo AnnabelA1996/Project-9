@@ -43,3 +43,16 @@ background-size: cover;
     width: 100%;
     color: #fff;
 }
+
+.gallery-page header, 
+.contact-page-body header {
+    height: 200px;
+}
+
+.gallery-page header li a,
+.contact-page-body a {
+    color: #000 !important;
+}
+.contact-page-body h1 {
+    text-align: center;
+}
